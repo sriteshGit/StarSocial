@@ -1,0 +1,31 @@
+
+
+.canvas{
+  position: absolute;
+} 
+h3,p{
+  background: transparent;
+  color: white;
+}
+
+.group-list{
+  background: transparent;
+  color: black;
+}  
+.group-list:hover{
+  background: transparent;
+  /* color: black; */
+  opacity: 0.7;
+} 
+
+#note {
+  position: absolute;
+  color: rgba(249,241,204,1);
+  left: 0;
+  right: 0;
+  bottom: 20px;
+  margin: auto;
+  text-align: center;
+  user-select: none;
+  font-family: Arial;
+}
