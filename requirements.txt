@@ -3,3 +3,4 @@ django-heroku
 django-bootstrap4
 bootstrap4
 django-braces
+whitenoise
