@@ -1,2 +1,4 @@
 gunicorn
 django-heroku
+django-bootstrap4
+bootstrap4
